@@ -1,0 +1,197 @@
+{
+    "type": "monograph",
+    
+    "language": "en",
+
+    "author": [
+	{
+	    "first-name": "Richard",
+	    "middle-name": "B.",
+	    "second-name": "Primack",
+	    "affiliation": false,
+	    "orcid-id": "https://orcid.org/0000-0002-3748-9853"
+	},
+	{
+	    "first-name": "John",
+	    "middle-name": "W.",
+	    "second-name": "Wilson",
+	    "affiliation": "North Carolina State University",
+	    "orcid-id": "https://orcid.org/0000-0002-7230-1449"
+	}
+    ],
+
+    "title": "Conservation Biology in Sub-Saharan Africa",
+    "subtitle": false,
+    
+    "publication-date": {
+	"month": 7,
+	"year": 2019
+    },
+
+    "isbn": [
+	"9781783747504",
+	"9781783747511",
+	"9781783747528",
+	"9781783747535",
+	"9781783747542",
+	"9781783747559"
+    ],
+
+    "licence": "CC-BY-4.0",
+    
+    "product-page": "1013",
+    "book-level-doi": "10.11647/OBP.0177",
+
+    "chapter-level-doi": [
+	{
+	    "type": "chapter",	    
+
+	    "author": false,
+
+	    "title": "1. What is Conservation Biology?",
+	    "subtitle": false,
+
+	    "page-range": [1,10]
+	},
+	{
+	    "type": "chapter",	    
+
+	    "author": false,
+
+	    "title": "2. Introduction to Sub-Saharan Africa",
+	    "subtitle": false,
+
+	    "page-range": [1,10]
+	},
+	{
+	    "type": "chapter",	    
+
+	    "author": false,
+
+	    "title": "3. What is Biodiversity?",
+	    "subtitle": false,
+
+	    "page-range": [1,10]
+	},
+	{
+	    "type": "chapter",	    
+
+	    "author": false,
+
+	    "title": "4. Why Should We Protect Biodiversity?",
+	    "subtitle": false,
+
+	    "page-range": [1,10]
+	},
+	{
+	    "type": "chapter",	    
+
+	    "author": false,
+
+	    "title": "5. The Scramble for Space",
+	    "subtitle": false,
+
+	    "page-range": [1,10]
+	},
+	{
+	    "type": "chapter",	    
+
+	    "author": false,
+
+	    "title": "6. Our Warming World",
+	    "subtitle": false,
+
+	    "page-range": [1,10]
+	},
+	{
+	    "type": "chapter",	    
+
+	    "author": false,
+
+	    "title": "7. Pollution, Overharvesting, Invasive Species, and Disease",
+	    "subtitle": false,
+
+	    "page-range": [1,10]
+	},
+	{
+	    "type": "chapter",	    
+
+	    "author": false,
+
+	    "title": "8. Extinction is Forever",
+	    "subtitle": false,
+
+	    "page-range": [1,10]
+	},
+	{
+	    "type": "chapter",	    
+
+	    "author": false,
+
+	    "title": "9. Applied Population Biology",
+	    "subtitle": false,
+
+	    "page-range": [1,10]
+	},
+	{
+	    "type": "chapter",	    
+
+	    "author": false,
+
+	    "title": "10. Conserving Ecosystems",
+	    "subtitle": false,
+
+	    "page-range": [1,10]
+	},
+	{
+	    "type": "chapter",	    
+
+	    "author": false,
+
+	    "title": "11. Preventing Extinctions",
+	    "subtitle": false,
+
+	    "page-range": [1,10]
+	},
+	{
+	    "type": "chapter",	    
+
+	    "author": false,
+
+	    "title": "12. Biodiversity and the Law",
+	    "subtitle": false,
+
+	    "page-range": [1,10]
+	},
+	{
+	    "type": "chapter",	    
+
+	    "author": false,
+
+	    "title": "13. The Importance of Protected Areas",
+	    "subtitle": false,
+
+	    "page-range": [1,10]
+	},
+	{
+	    "type": "chapter",	    
+
+	    "author": false,
+
+	    "title": "14. Conservation on Unprotected Lands",
+	    "subtitle": false,
+
+	    "page-range": [1,10]
+	},
+	{
+	    "type": "chapter",	    
+
+	    "author": false,
+
+	    "title": "15. An Agenda for the Future",
+	    "subtitle": false,
+
+	    "page-range": [1,10]
+	}
+    ]
+}
